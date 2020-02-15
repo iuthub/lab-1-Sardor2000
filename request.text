@@ -1,0 +1,41 @@
+HTTP/1.1 200 OK
+Date: Sat, 15 Feb 2020 16:58:37 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Set-Cookie: __cfduid=d136ac12a6f6092649f3c0c60ea288d671581785917; expires=Mon, 16-Mar-20 16:58:37 GMT; path=/; domain=.booleanworld.com; HttpOnly; SameSite=Lax; Secure
+Age: 0
+Cache-Control: max-age=0, must-revalidate, no-cache, no-store
+Display: pub_site_sol
+Expires: Fri, 14 Feb 2020 16:58:37 GMT
+Link: <https://www.booleanworld.com/wp-json/>; rel="https://api.w.org/"
+Pagespeed: off
+Response: 200
+Set-Cookie: ezoadgid_95829=-1; Path=/; Domain=booleanworld.com; Expires=Sat, 15 Feb 2020 17:28:37 UTC
+Set-Cookie: ezoref_95829=; Path=/; Domain=booleanworld.com; Expires=Sat, 15 Feb 2020 18:58:37 UTC
+Set-Cookie: ezoab_95829=mod55-c; Path=/; Domain=booleanworld.com; Expires=Sat, 15 Feb 2020 18:58:37 UTC
+Set-Cookie: active_template::95829=pub_site.1581785917; Path=/; Domain=booleanworld.com; Expires=Mon, 17 Feb 2020 16:58:37 UTC
+Set-Cookie: ezopvc_95829=1; Path=/; Domain=booleanworld.com; Expires=Sat, 15 Feb 2020 17:28:37 UTC
+Set-Cookie: ezepvv=2193; Path=/; Domain=booleanworld.com; Expires=Sun, 16 Feb 2020 16:58:37 UTC
+Set-Cookie: lp_95829=https://www.booleanworld.com/; Path=/; Domain=booleanworld.com; Expires=Sat, 15 Feb 2020 18:58:37 UTC
+Set-Cookie: ezovid_95829=2028586308; Path=/; Domain=booleanworld.com; Expires=Sat, 15 Feb 2020 17:28:37 UTC
+Set-Cookie: ezovuuidtime_95829=1581785917; Path=/; Domain=booleanworld.com; Expires=Mon, 17 Feb 2020 16:58:37 UTC
+Set-Cookie: ezovuuid_95829=a9ac5ce2-a81d-4e83-4625-bea75be30728; Path=/; Domain=booleanworld.com; Expires=Sat, 15 Feb 2020 17:28:37 UTC
+Set-Cookie: ezCMPCCS=true; Path=/; Domain=booleanworld.com; Expires=Mon, 15 Feb 2021 16:58:37 GMT
+Vary: Accept-Encoding,User-Agent,X-APP-JSON
+Via: 1.1 varnish (Varnish/6.0)
+X-Ezoic-Cdn: Hit ds;mm;5095a596f1199f08ba97dd339749c4bf;2-95829-6;692c2b6b-2b97-4473-41d1-27313ff123cc
+X-Frame-Options: sameorigin
+X-Middleton-Display: pub_site_sol
+X-Middleton-Response: 200
+X-Shard: 10022573
+X-Sol: pub_site
+X-Varnish: 882648537
+X-Vcache: Miss
+X-Xss-Protection: 1; mode=block
+CF-Cache-Status: DYNAMIC
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+Server: cloudflare
+CF-RAY: 5658d3e0cca5bef6-FRA
+
